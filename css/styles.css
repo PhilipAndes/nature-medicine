@@ -133,6 +133,7 @@ header a:hover{
     padding-top: 90px;
     min-height: 215px;
     background: url('../images/showcase.jpg') no-repeat;
+    background-size: cover;
     text-align: center;
     color: #ffffff;
     border-bottom:#458a0b solid 3px;
