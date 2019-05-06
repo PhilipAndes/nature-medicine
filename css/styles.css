@@ -173,6 +173,7 @@ header a:hover{
     padding-top: 90px;
     min-height: 215px;
     background: url('../images/showcase2.jpg') no-repeat;
+    background-size: cover;
     text-align: center;
     color: #ffffff;
     border-bottom:#458a0b solid 3px;
@@ -195,6 +196,7 @@ header a:hover{
     padding-top: 90px;
     min-height: 215px;
     background: url(../images/showcase4.jpg) no-repeat;
+    background-size: cover;
     text-align: center;
     color: #ffffff;
     border-bottom:#458a0b solid 3px;
@@ -236,6 +238,7 @@ article {
     padding-top: 90px;
     min-height: 215px;
     background: url(../images/showcase5.jpg) no-repeat;
+    background-size: cover;
     text-align: center;
     color: #ffffff;
     border-bottom:#458a0b solid 3px;
@@ -277,6 +280,7 @@ article {
     padding-top: 90px;
     min-height: 215px;
     background: url(../images/showcase6.jpg) no-repeat;
+    background-size: cover;
     text-align: center;
     color: #ffffff;
     border-bottom:#458a0b solid 3px;
